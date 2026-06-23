@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
