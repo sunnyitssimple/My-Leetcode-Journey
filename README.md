@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/sunnyitssimple/My-Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
